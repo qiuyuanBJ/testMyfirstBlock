@@ -1,5 +1,5 @@
 {
-  "name": "@umi-block/tenantBlock",
+  "name": "@umi-block/testMyfirstBlock",
   "version": "0.0.1",
   "description": "",
   "main": "src/index.js",
@@ -7,7 +7,7 @@
     "name": "",
     "email": ""
   },
-  "repository": "umijs/umi-blocks/tenantBlock",
+  "repository": "umijs/umi-blocks/testMyfirstBlock",
   "scripts": {
     "dev": "umi dev"
   },
