@@ -7,7 +7,7 @@
     "name": "",
     "email": ""
   },
-  "repository": "qiuyuanBJ/testMyfirstBlock/testMyfirstBlock",
+  "repository": "qiuyuanBJ/testMyfirstBlock",
   "scripts": {
     "dev": "umi dev"
   },
