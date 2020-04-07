@@ -7,7 +7,11 @@
     "name": "",
     "email": ""
   },
-  "repository": "qiuyuanBJ/testMyfirstBlock",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qiuyuanBJ/testMyfirstBlock"
+  },
+  
   "scripts": {
     "dev": "umi dev"
   },
